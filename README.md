@@ -1,4 +1,4 @@
-# OCR-SAMPLES
+# OCR-SAMPLES 
 
 A handwritten math OCR pipeline that takes an image of algebra problems, detects each line, recognizes the expressions using a transformer model, and solves the equations automatically.
 
