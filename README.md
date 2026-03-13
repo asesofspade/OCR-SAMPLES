@@ -46,9 +46,9 @@ Equation Solver (SymPy)
     │
     ▼
 Solutions Output
-  - Solucion 1: x = [21/2]
-  - Solucion 2: x = [38/3]
-  - Solucion 3: x = [9/5]
+  - Solution 1: x = [21/2]
+  - Solution 2: x = [38/3]
+  - Solution 3: x = [9/5]
 ```
 
 ---
@@ -102,9 +102,9 @@ Given a handwritten image with:
 
 The pipeline outputs:
 ```
-Solucion 1: x = [21/2]
-Solucion 2: x = [38/3]
-Solucion 3: x = [9/5]
+Solution 1: x = [21/2]
+Solution 2: x = [38/3]
+Solution 3: x = [9/5]
 ```
 
 ---
